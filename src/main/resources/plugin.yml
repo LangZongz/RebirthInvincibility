@@ -1,0 +1,4 @@
+name: RebirthInvincibility
+version: '${version}'
+main: dev.langz.rebirthinvincibility.Main
+api-version: '1.18'
